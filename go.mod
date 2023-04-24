@@ -1,4 +1,4 @@
-module github.com/MohammadShoqair/is105sem03/mycrypt
+module
 
 
 go 1.19
